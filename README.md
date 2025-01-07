@@ -2,9 +2,8 @@
   <img src="./assets/beveragebuddy-logo.svg" width="300" alt="BeverageBuddy Logo">
 </p>
 
-# 🍹 BeverageBuddy
-
-> A simple React Native + Firebase app for sharing and discovering friends’ drink preferences via QR codes — so you always pour it right.
+<h1 align="center">🍹 BeverageBuddy</h1>
+<p align="center"><i>A simple React Native + Firebase app for sharing and discovering friends’ drink preferences via QR codes — so you always pour it right.</i></p>
 
 ---
 
@@ -37,11 +36,13 @@ Users create **Drink Cards** with their beverage preferences, share them via QR 
 ## 📦 Installation
 
 ### Prerequisites
+
 - Node.js (v18+ recommended)
 - npm or yarn
 - Expo CLI (`npm install -g expo-cli`)
 
 ### Steps
+
 ```bash
 # 1. Clone the repo
 git clone https://github.com/YOUR-USERNAME/beverage-buddy.git
@@ -53,18 +54,19 @@ cd beverage-buddy
 npm install
 
 ```
+
 BeverageBuddy/
-├── assets/             # Images, logos, icons
-├── components/         # Reusable UI components
-├── screens/            # App screens (MyDrinks, Friends, ScanQR, etc.)
-├── navigation/         # Navigation stack & tab config
-├── services/           # Firebase & helper functions
-├── App.js              # Entry point
+├── assets/ # Images, logos, icons
+├── components/ # Reusable UI components
+├── screens/ # App screens (MyDrinks, Friends, ScanQR, etc.)
+├── navigation/ # Navigation stack & tab config
+├── services/ # Firebase & helper functions
+├── App.js # Entry point
 └── README.md
 
 👩‍💻 Author
 Wico Pretorius – @wicopretorius
 
-
 # 4. Start the app
+
 npx expo start
