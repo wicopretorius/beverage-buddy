@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/beveragebuddy-logo.svg" width="300" alt="BeverageBuddy Logo">
+  <img src="[https://raw.github.com/wicopretorius/beverage-buddy/blob/main/assets/Beveragebuddy-logo.svg]" width="300" alt="BeverageBuddy Logo">
 </p>
 
 <h1 align="center">🍹 BeverageBuddy</h1>
